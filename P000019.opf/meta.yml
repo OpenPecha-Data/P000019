@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000019
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་བཤད་གཞན་ཕན་ནོར་བུ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་གྲོལ།
-  sku: SHE-SHAP-13
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-SHAP-13
 web_metadata:
   title:
     en: The Beneficial Jewel:The Public Teaching of Shabkar
